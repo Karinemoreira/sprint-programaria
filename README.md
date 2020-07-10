@@ -4,7 +4,9 @@ Neste projeto da Sprint Programaria, utilizei um dataset público do IMDB encont
 <p>No dataset se encontram informações de 5000 filmes do IMDB.</p>
 <p>O exercício consistiu no tratamento dos dados, análise exploratória, criação e treinamento do modelo, e avaliação dos resultados. </p>
 
-<p>O objetivo é criar um modelo que prevê a nota de determinado filme no IMDB.</p>
+<p>Foi utilizado Jupyter Notebook para realização do exercício, linguagem Python 3.5</p>
+
+<p>O objetivo foi criar um modelo que prevê a nota de determinado filme no IMDB.</p>
 
 
 <h1>Ferramentas Utilizadas</h1>
