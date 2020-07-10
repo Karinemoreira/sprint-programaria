@@ -2,8 +2,9 @@
 
 Neste projeto da Sprint Programaria, utilizei um dataset público do IMDB encontrado na plataforma Kaggle. Neste dataset se encontra informações de 5000 filmes do IMDB. Irei disponilizar o link aqui.  Neste exercício realizamos o tratamento dos dados, análise exploratória, criação e treinamento do modelo, e avaliação dos resultados. O objetivo é criar um modelo que prevê a nota de determinado filme no IMDB.
 
+<img src="/Karinemoreira/sprint-programaria/blob/master/images/dados3.PNG?raw=true" alt="dados3.PNG">
 
-<h1>Requisitos</h1>
+<h1>Ferramentas Utilizadas</h1>
 <ul> 
   <li>Python 3.5</li>
   <li>Pandas</li>
